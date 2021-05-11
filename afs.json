@@ -1,0 +1,43 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "844_Wljuw84sv43F0i9ANmJT_2s",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#channel",
+            "etag": "FQ9w15noSNA7XzwyNwQeUttgV-g",
+            "id": "UCVUdHi-tdW5AKdzMiTPG97Q",
+            "snippet": {
+                "title": "funnyplox",
+                "description": "Puppies & Babies & Kitties OH MY! New videos, all in HD, ALL the time. Every time someone subscribes, baby animals are born!",
+                "customUrl": "funnyplox",
+                "publishedAt": "2010-11-27T19:32:15Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwng2IKtFDPQUt3Vz7McWNYnX0vIyIFlIxevEFd6ljw=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwng2IKtFDPQUt3Vz7McWNYnX0vIyIFlIxevEFd6ljw=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AAUvwng2IKtFDPQUt3Vz7McWNYnX0vIyIFlIxevEFd6ljw=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "funnyplox",
+                    "description": "Puppies & Babies & Kitties OH MY! New videos, all in HD, ALL the time. Every time someone subscribes, baby animals are born!"
+                },
+                "country": "CA"
+            }
+        }
+    ]
+}
